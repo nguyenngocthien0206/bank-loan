@@ -1,0 +1,7 @@
+MethodID,Type,Operation
+1,Deposit,Cash Deposit
+2,Deposit,Check Deposit
+3,Deposit,Collection from another bank
+4,Withdrawal,Cash Withdrawal
+5,Withdrawal,Credit card withdrawal
+6,Withdrawal,Remittance to another bank

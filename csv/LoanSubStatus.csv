@@ -1,0 +1,5 @@
+SubStatusID,StatusID,SubStatus
+1,1,No problems
+2,1,Loan not payed
+3,2,OK so far
+4,2,Client in Debt
